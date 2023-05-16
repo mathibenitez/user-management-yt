@@ -1,3 +1,6 @@
-import { printHello } from '#Lib/hello.js';
 
-printHello();
+const bootstrap = () => {
+ 
+};
+
+bootstrap();
